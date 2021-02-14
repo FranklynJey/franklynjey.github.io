@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* since 2019 PhD in Robotics & Cognitive Systems (expected 2023)
-* 2014 - 2018 M.Sc. in Electrical Engineering & Information Technology
-* 2011 - 2014 B.Sc. in Electrical Engineering & Information Technology
+* Ph.D. in Robotics & Cognitive Systems, expected 2023
+* M.Sc. in Electrical Engineering & Information Technology, 2018
+* B.Sc. in Electrical Engineering & Information Technology, 2014
 
 Work experience
 ======
