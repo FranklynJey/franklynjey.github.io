@@ -84,10 +84,10 @@ author:
   avatar           : "frank_quad.jpg"
   bio              : "Young Researcher in learning-based perception and robotics"
   location         : "Karlsruhe(GER)" #, Stuttgart (GER), Ottawa (CA), Sunnyvale (USA, CAL)"
-  employer         :
+  employer         : "FZI Forschungszentrum Informatik"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=mAMWuMUAAAAJ&hl=en"
-  email            :
+  email            : "<lastname>@fzi.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
